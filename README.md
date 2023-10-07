@@ -9,6 +9,7 @@ is often difficult to establish a causal link between neighborhood conditions an
 Moving to Opportunity (MTO) demonstration was designed to test whether offering housing vouchers to
 families living in public housing in high-poverty neighborhoods could lead to better experiences and outcomes
 by providing financial assistance to move to lower-poverty neighborhoods.
+
 Between 1994 and 1998 the U.S. Department of Housing and Urban Development enrolled 4,604 low-income
 households from public housing projects in Baltimore, Boston, Chicago, Los Angeles, and New York in MTO,
 randomly assigning enrolled families in each site to one of three groups: (1) The low-poverty voucher group
